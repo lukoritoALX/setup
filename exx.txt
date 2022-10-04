@@ -1,0 +1,4 @@
+
+5.3
+Cloning the GitHub repository with Brackets
+Before we create a local copy of the GitHub repository (a clone in Git terminology § 2.9.4), we need somewhere to put it on our local machine. In my case, all the Git repositories are stored in the directory (see § 3.3):
